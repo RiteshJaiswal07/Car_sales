@@ -1,1 +1,4 @@
 # Car_sales
+Title: Predicting Car Sales with Machine Learning: A Python Approach Using Linear and Lasso Regression
+
+Description: Dive into the fascinating world of car sales prediction using cutting-edge machine learning techniques in Python. This tutorial will guide you through the implementation of linear regression and Lasso regression models to analyze and forecast car sales based on key factors. Learn how to preprocess and explore your dataset, build predictive models, and fine-tune them for optimal performance. By the end of this hands-on tutorial, you'll have the skills to develop robust machine learning solutions for predicting car sales, providing valuable insights for automotive industry professionals and enthusiasts alike. Harness the power of Python and machine learning to unlock the potential of data-driven car sales forecasting.
